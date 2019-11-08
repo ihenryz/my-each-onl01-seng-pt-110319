@@ -3,4 +3,5 @@ def my_each(array)
   while count < array
     count += 1 
   end
+  array
 end
